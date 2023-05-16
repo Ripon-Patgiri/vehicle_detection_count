@@ -46,4 +46,4 @@ for (x, y, w, h) in cars:
     cv2.rectangle(image_arr, (x, y), (x+w, y+h), (255, 0, 0), 2)
     cnt += 1
 print(cnt, " cars found")
-Image.fromarray(image_arr)
+Image.fromarray(image_arr).save("result.jpg")
