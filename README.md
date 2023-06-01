@@ -27,4 +27,5 @@
 ## Demo
 
 ![image](https://github.com/Ripon-Patgiri/vehicle_detection_count/assets/67592893/423719b0-347d-4ca3-adb6-2b62da5f435b)
+![image](https://github.com/Ripon-Patgiri/vehicle_detection_count/assets/67592893/bf0d2193-dadc-4fe0-95c9-338b897d96ca)
 
