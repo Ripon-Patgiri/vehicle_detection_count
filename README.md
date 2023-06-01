@@ -25,3 +25,6 @@
 - Toll Collection
 
 ## Demo
+
+![image](https://github.com/Ripon-Patgiri/vehicle_detection_count/assets/67592893/423719b0-347d-4ca3-adb6-2b62da5f435b)
+
