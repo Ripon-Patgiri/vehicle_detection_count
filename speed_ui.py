@@ -26,7 +26,7 @@ def detect_cars(image):
 
 
 def main():
-    st.title("Car Detection App")
+    st.title("Car Detection and Counter")
 
     option = st.sidebar.selectbox(
         "Select Input Method", ("Image URL", "Upload Image"))
